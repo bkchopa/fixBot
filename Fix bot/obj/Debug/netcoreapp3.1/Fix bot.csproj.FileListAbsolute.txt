@@ -1,0 +1,27 @@
+C:\Users\bkcho\source\repos\Fix bot\Fix bot\bin\Debug\netcoreapp3.1\Fix bot.exe
+C:\Users\bkcho\source\repos\Fix bot\Fix bot\obj\Debug\netcoreapp3.1\Fix bot.csprojAssemblyReference.cache
+C:\Users\bkcho\source\repos\Fix bot\Fix bot\obj\Debug\netcoreapp3.1\Fix bot.AssemblyInfoInputs.cache
+C:\Users\bkcho\source\repos\Fix bot\Fix bot\obj\Debug\netcoreapp3.1\Fix bot.AssemblyInfo.cs
+C:\Users\bkcho\source\repos\Fix bot\Fix bot\bin\Debug\netcoreapp3.1\Fix bot.deps.json
+C:\Users\bkcho\source\repos\Fix bot\Fix bot\bin\Debug\netcoreapp3.1\Fix bot.runtimeconfig.json
+C:\Users\bkcho\source\repos\Fix bot\Fix bot\bin\Debug\netcoreapp3.1\Fix bot.runtimeconfig.dev.json
+C:\Users\bkcho\source\repos\Fix bot\Fix bot\bin\Debug\netcoreapp3.1\Fix bot.dll
+C:\Users\bkcho\source\repos\Fix bot\Fix bot\bin\Debug\netcoreapp3.1\Fix bot.pdb
+C:\Users\bkcho\source\repos\Fix bot\Fix bot\bin\Debug\netcoreapp3.1\Discord.Net.Commands.dll
+C:\Users\bkcho\source\repos\Fix bot\Fix bot\bin\Debug\netcoreapp3.1\Discord.Net.Core.dll
+C:\Users\bkcho\source\repos\Fix bot\Fix bot\bin\Debug\netcoreapp3.1\Discord.Net.Interactions.dll
+C:\Users\bkcho\source\repos\Fix bot\Fix bot\bin\Debug\netcoreapp3.1\Discord.Net.Rest.dll
+C:\Users\bkcho\source\repos\Fix bot\Fix bot\bin\Debug\netcoreapp3.1\Discord.Net.Webhook.dll
+C:\Users\bkcho\source\repos\Fix bot\Fix bot\bin\Debug\netcoreapp3.1\Discord.Net.WebSocket.dll
+C:\Users\bkcho\source\repos\Fix bot\Fix bot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bkcho\source\repos\Fix bot\Fix bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\bkcho\source\repos\Fix bot\Fix bot\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\bkcho\source\repos\Fix bot\Fix bot\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\bkcho\source\repos\Fix bot\Fix bot\bin\Debug\netcoreapp3.1\System.Linq.Async.dll
+C:\Users\bkcho\source\repos\Fix bot\Fix bot\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\bkcho\source\repos\Fix bot\Fix bot\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\Users\bkcho\source\repos\Fix bot\Fix bot\obj\Debug\netcoreapp3.1\Fix bot.csproj.CoreCompileInputs.cache
+C:\Users\bkcho\source\repos\Fix bot\Fix bot\obj\Debug\netcoreapp3.1\Fix bot.csproj.CopyComplete
+C:\Users\bkcho\source\repos\Fix bot\Fix bot\obj\Debug\netcoreapp3.1\Fix bot.dll
+C:\Users\bkcho\source\repos\Fix bot\Fix bot\obj\Debug\netcoreapp3.1\Fix bot.pdb
+C:\Users\bkcho\source\repos\Fix bot\Fix bot\obj\Debug\netcoreapp3.1\Fix bot.genruntimeconfig.cache

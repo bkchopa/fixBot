@@ -3,7 +3,6 @@ using Discord.Commands;
 using Discord;
 using System.Collections.Generic;
 
-
 namespace Fix_bot
 {
     // 모듈 클래스의 접근제어자가 public이면서 ModuleBase를 상속해야 모듈이 인식된다.
